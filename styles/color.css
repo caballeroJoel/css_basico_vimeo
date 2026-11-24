@@ -1,0 +1,15 @@
+:root {
+    --color-text: rgb(250, 252, 253);
+    --color-text-2: rgb(76, 88, 100);
+    --color-btn : rgb(23, 213, 255);
+    --color-btn-gr : rgb(255, 255, 255, 0.6);
+    --color-btn-txt : rgb(20, 26, 32);
+
+    --color-bck-blk: rgb(20, 26, 32);
+    --color-bck-gray: rgb(241, 245, 249);
+    --color-bck-gray-2: rgb(223, 228, 234);
+    --color-bck-card: rgb(25, 32, 40);
+    --color-text-3: rgb(169, 178, 188);
+    --color-link: rgb(0, 0, 238);
+    --color-btn-dark: rgb(0, 170, 207);
+}
